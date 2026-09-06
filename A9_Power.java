@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Task9_Power {
+public class A9_Power {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter base: ");

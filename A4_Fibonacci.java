@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Task4_Fibonacci {
+public class A4_Fibonacci {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter the number of terms: ");

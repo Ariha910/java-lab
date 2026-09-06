@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Task2_CheckAlphabet {
+public class A2_CheckAlphabet {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter a character: ");

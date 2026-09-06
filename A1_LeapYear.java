@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Task1_LeapYear {
+public class A1_LeapYear {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter a year: ");
