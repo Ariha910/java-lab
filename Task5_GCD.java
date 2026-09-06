@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class GCD {
+public class Task5_GCD {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter first number: ");

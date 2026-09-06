@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CountDigits {
+public class Task7_CountDigits {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter an integer: ");
